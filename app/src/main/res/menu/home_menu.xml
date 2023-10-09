@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_cart"
+        app:actionLayout="@layout/actionbar_cart_icon"
+        android:title="Cart"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/logout_btn"
+        android:title="logout" />
+    <item
+        android:id="@+id/manage_addresses_btn"
+        android:title="Manage Addresses"/>
+    <item
+        android:id="@+id/account_setting_btn"
+        android:title="Account Setting"/>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299447045888",
+    "project_id": "ecommerceprediction",
+    "storage_bucket": "ecommerceprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299447045888:android:382af33dd3839e39e9ade5",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299447045888-6boeen01rmm9tjmi0eaipjd1t45nljgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-JseQJSOK4WER-sUJukjImREx2P7wK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299447045888-6boeen01rmm9tjmi0eaipjd1t45nljgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
